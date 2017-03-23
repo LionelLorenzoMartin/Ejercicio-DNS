@@ -131,8 +131,11 @@ editamos el archivo /etc/rc.local y le añadimos lo siguiente delante de Exit 0:
 sh /home/usuario/router.sh  
 --------------------------
 
+Raid 0:
+![Raid0](RAID0.png)
 
-
+Raid 5:
+![Raid5](RAID5.png)
 
 
 
